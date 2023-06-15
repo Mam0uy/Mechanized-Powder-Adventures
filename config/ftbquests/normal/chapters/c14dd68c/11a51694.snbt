@@ -1,0 +1,12 @@
+
+{
+	x: -6.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "88eb7bf8",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}]
+	}]
+}

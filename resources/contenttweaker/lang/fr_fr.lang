@@ -1,0 +1,23 @@
+item.contenttweaker.Smoke.name=Fumigène
+item.contenttweaker.Cirsceptre.name=Sceptre Cira
+
+
+item.contenttweaker.Empty_Powder.name=Poudre Vide
+item.contenttweaker.Red_Powder.name=Poudre Rouge
+item.contenttweaker.Orange_Powder.name=Poudre Orange
+item.contenttweaker.Yellow_Powder.name=Poudre Jaune
+item.contenttweaker.Green_Powder.name=Poudre Verte
+item.contenttweaker.Blue_Powder.name=Poudre Bleu 
+item.contenttweaker.Violet_Powder.name=Poudre Violette
+item.contenttweaker.Pink_Powder.name=Poudre Rose
+item.contenttweaker.Rainbow_Powder.name=Poudre Arc-en-ciel
+
+
+fluid.Red_Water=Eau Rouge
+fluid.Orange_Water=Eau Orange
+fluid.Yellow_Water=Eau Jaune
+fluid.Green_Water=Eau Verte
+fluid.Blue_Water=Eau Bleu
+fluid.Violet_Water=Eau Violette
+fluid.Pink_Water=Eau Rose
+fluid.Ultimate_Water=Eau Ultime

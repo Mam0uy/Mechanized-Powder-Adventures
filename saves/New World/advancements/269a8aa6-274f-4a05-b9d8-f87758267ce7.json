@@ -1,0 +1,56 @@
+{
+  "rechiseled:recipes/rechiseled/chisel": {
+    "criteria": {
+      "recipe_condition": "2023-06-09 23:12:00 +0200"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2023-06-09 23:12:08 +0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2023-06-09 23:12:08 +0200"
+    },
+    "done": true
+  },
+  "trashcans:recipes/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2023-06-09 23:12:00 +0200"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2023-06-09 23:12:08 +0200"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2023-06-09 23:12:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest_hills": "2023-06-09 23:12:06 +0200"
+    },
+    "done": false
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2023-06-09 23:12:38 +0200"
+    },
+    "done": true
+  },
+  "trashcans:recipes/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2023-06-09 23:12:00 +0200"
+    },
+    "done": true
+  }
+}
